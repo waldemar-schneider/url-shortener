@@ -1,0 +1,1 @@
+This is a short example how fast you can develop microservices with `Spring Boot`
